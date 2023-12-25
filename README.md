@@ -1,12 +1,37 @@
 # flutter_assignment
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- This Flutter application provides user authentication using Firebase.
+- Users can register, log in, and access the home screen upon successful authentication.
+-  After successful login then we navigate on home screen. IN home we fetch API for display data 
 
-A few resources to get you started if this is your first Flutter project:
+
+## Features
+
+- User registration with email and password
+- User login with email and password
+- Firebase authentication integration
+- Simple and responsive UI
+- model architecture use
+- fully validation screen
+
+## state  managenment ( API calling) 
+ - API calls in this project are managed using Provider for efficient state handling. 
+ - The pet_provider.dart file contains the necessary logic for making API requests, handling responses, and updating the app's state accordingly.
+
+## Package/dependences
+ - http
+ - firebase_core
+ - firebase_auth
+ - toaster
+ - cloud_storage
+
+## project run process
+ - flutter pub get
+ - flutter run 
+
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
