@@ -1,0 +1,13 @@
+com.example.flutter_assignment.app-core-1.6.0-0 C:\Users\mohit goswami\.gradle\caches\transforms-3\3fdca236016d2d83b9bdc38945bf1b2f\transformed\core-1.6.0\res
+com.example.flutter_assignment.app-jetified-window-1.0.0-beta04-1 C:\Users\mohit goswami\.gradle\caches\transforms-3\6057dcbb0e8cd3ac87091d5cfe6e6fe9\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_assignment.app-jetified-annotation-experimental-1.1.0-2 C:\Users\mohit goswami\.gradle\caches\transforms-3\702d92ac0b3e87dcc16abe67f049722b\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_assignment.app-jetified-window-java-1.0.0-beta04-3 C:\Users\mohit goswami\.gradle\caches\transforms-3\df5ac6c5404978a0f41cb3995bb5bbdf\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_assignment.app-debug-4 M:\full web dev\Flutter Learner\Projects\flutter_assignment\android\app\src\debug\res
+com.example.flutter_assignment.app-main-5 M:\full web dev\Flutter Learner\Projects\flutter_assignment\android\app\src\main\res
+com.example.flutter_assignment.app-pngs-6 M:\full web dev\Flutter Learner\Projects\flutter_assignment\build\app\generated\res\pngs\debug
+com.example.flutter_assignment.app-resValues-7 M:\full web dev\Flutter Learner\Projects\flutter_assignment\build\app\generated\res\resValues\debug
+com.example.flutter_assignment.app-rs-8 M:\full web dev\Flutter Learner\Projects\flutter_assignment\build\app\generated\res\rs\debug
+com.example.flutter_assignment.app-mergeDebugResources-9 M:\full web dev\Flutter Learner\Projects\flutter_assignment\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_assignment.app-mergeDebugResources-10 M:\full web dev\Flutter Learner\Projects\flutter_assignment\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_assignment.app-merged_res-11 M:\full web dev\Flutter Learner\Projects\flutter_assignment\build\app\intermediates\merged_res\debug
+com.example.flutter_assignment.app-packaged_res-12 M:\full web dev\Flutter Learner\Projects\flutter_assignment\build\fluttertoast\intermediates\packaged_res\debug

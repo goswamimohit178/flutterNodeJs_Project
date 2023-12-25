@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197620237870",
+    "project_id": "emailpasswordauth-dcdad",
+    "storage_bucket": "emailpasswordauth-dcdad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197620237870:android:b06ae353cf99234ef881bf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLFl7EFSOgYVveb1Qi0q_OWmAfBsm2LSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
