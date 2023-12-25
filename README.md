@@ -13,7 +13,7 @@
 - User login with email and password
 - Firebase authentication integration
 - Simple and responsive UI
-- model architecture use
+- MVVM architecture use
 - fully validation screen
 
 ## state  managenment ( API calling) 
